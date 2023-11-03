@@ -2,11 +2,9 @@
 
 ## Interior Kitchen 3D Asset Using Blender
 
-This project involves creating a 3D model of a kitchen interior using Blender. The model includes objects such as a dining table, cupboards, sink, and a refrigerator.
-
 ### Usecase
 
-In this scenario, the refrigerator is equipped with IoT sensors that enhance its functionality and provide valuable features for users. These sensors include:
+One usecase in this sceanario is refrigerator has IoT sensors such as:
 
 1. **Temperature Sensors:**
    - Temperator sensor which continously monitor the internal temperature which alert the user in case of temperature fluctuations.
